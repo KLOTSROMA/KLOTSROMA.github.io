@@ -41,13 +41,10 @@ float: right; }
 		
 	}
 		
-.dent-botton{
-	padding: 30px;
-	background:white;
-	text-align: center;
-	float: left;
+.denk-botton a.reposit {
+		padding: 50px; 
+		background-color: black;
 }
-
 		
 		
 	
