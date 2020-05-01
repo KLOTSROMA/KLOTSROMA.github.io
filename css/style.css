@@ -3,11 +3,7 @@ padding: 15px 0;
 float: right; }
 
 
-	.rightpic {
-		float: center;
-
-		margin: 0 0 5px 5px;
-	}
+	
 
 	.h30 {
 		font-weight: bold;
@@ -51,7 +47,7 @@ float: right; }
 	 .denk-botton a {
 	 	padding: 30px 20px;
 	 	float: left;
-	 	color: black;
+	 	text-align: black;
 	 	display: block;
 	 
 	 }
