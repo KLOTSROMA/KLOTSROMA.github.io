@@ -61,11 +61,14 @@ float: right; }
 	 .dyny-botton{
 	 	padding: 50px;
 	 	background: black;
-		 float: left;
-	 	padding: 20px;
-	 	background: white;
+		
 
 	 }
+.dyny-botton{
+	float: left;
+	 	padding: 20px;
+	background: white;
+}
 	 .factory-blues {
 	 	font-size: 30px;
 	 	}
