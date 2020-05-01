@@ -58,14 +58,14 @@ float: right; }
 	 .dinj-botton {
 	 	height: 300px;
 	 	width: 300px;
-
+		 float:left;
 
 	 }
 	
 .dyny-botton{
-	float: left;
 	 	padding: 20px;
 	background-color: black;
+	float:left;
 }
 	 .factory-blues {
 	 	font-size: 30px;
