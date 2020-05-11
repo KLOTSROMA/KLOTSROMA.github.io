@@ -1,0 +1,255 @@
+form {
+padding: 15px 0;
+float: right; }
+
+
+	.rightpic {
+		float: center;
+
+		margin: 0 0 5px 5px;
+	}
+
+	.h30 {
+		font-weight: bold;
+		color: #A0A0A0FF;
+		font-size: 35 ;
+			text-align: center;
+	} 
+
+	.header-botton {
+		margin-left: 5px;
+		color: black;
+		font-size: 25px;
+		margin-bottom: 60px;
+	}
+
+	.work-botton{
+		padding: 50px;
+		background-color: white ;
+		
+
+	}
+	.durk-botton{
+		width: 1200px;
+
+	 		display: inline-block;
+	 		border-radius: 15px;
+	 		text-align: left;
+		color: black;
+		float: right;
+		font-size: 20px;
+		
+	}
+
+
+	.denk-botton a.reposit {
+		padding: 30px; 
+		background-color:  black;
+
+		
+		
+	}
+	 .denk-botton a {
+	 	padding: 30px 20px;
+	 	float: left;
+
+	 	color: white;
+	 	display: block;
+	 
+	 }
+	 .dinj-botton {
+	 	height: 300px;
+	 	width: 300px;
+
+
+	 }
+	 .dyny-botton  {
+	 	overflow:  hidden;
+	 	padding: 0px;
+	 	background-color: gray;
+	 	text-align: left;
+color: black;
+
+	 }
+	 .factory-blues {
+	 	font-size: 30px;
+	 	}
+
+	 	.factore-black{
+	 		font-family: Comic Sans Ms;
+	 		line-height: 1.3em;
+	 		margin-bottom: 0px;
+	 		width: 1300px;
+	 		display: inline-block;
+	 		border-radius: 15px;
+	 		text-align: right;
+	 		margin-top: 0.1em;
+	 		font-size: 35px;
+
+	 	}
+	 	.inline-img{
+	 		width: 250px;
+	 		display: inline-block;
+	 		border-radius: 15px;
+	 		text-align: right;
+	 	}
+
+	 	.first-block{
+	 		margin-bottom: 60px;
+
+	 	}
+	 	.second-block{ 
+	 		margin-bottom: 60px;
+
+	 	}
+
+	 	.three-block{
+	 		margin-bottom: 60px;
+
+	 	}
+
+	 	.four-block{
+	 		margin-bottom: 60px;
+
+	 	}
+
+	 	.five-block{
+	 		margin-bottom: 60px;
+
+	 	}
+
+	 	.six-block{
+	 		margin-bottom: 60px;
+
+	 	}
+
+
+	 	.seven-block{
+	 		margin-bottom: 60px;
+
+
+
+	 	}
+
+.nova-clark{
+	width: 400px;
+	height: 400px;
+
+}
+.first-black{
+
+	margin-bottom: 80px;
+	color: gray;
+	text-align: center;
+	font-size: 40px;
+}
+.two-black{
+	margin-bottom: 80px;
+	color: gray;
+	text-align: center;
+	font-size: 40px;
+}
+
+.three-black{
+	margin-bottom: 80px;
+	color: gray;
+	text-align: center;
+	font-size: 40px;
+}
+.four-black{
+	margin-bottom: 80px;
+	color: gray;
+	text-align: center;
+	font-size: 40px;
+
+}
+.five-black{
+	margin-bottom: 80px;
+	color: gray;
+	text-align: center;
+	font-size: 40px;
+
+}
+.six-black{
+	margin-bottom: 80px;
+	color: gray;
+	text-align: center;
+	font-size: 40px;
+
+}
+.seven-black{
+	margin-bottom: 80px;
+	color: gray;
+	text-align: center;
+	font-size: 40px;
+
+}
+.clen {
+	height: 150px;
+	width: 1600px;
+	margin-right:  0px;
+
+
+}
+.clrn{
+	height: 150px;
+	width: 1600px;
+	margin-right:  0px;
+}
+
+
+
+
+.clan{
+	margin-bottom: 10px;
+	height: 200px;
+	width: 1620px;
+	
+	margin-left:  0px;
+
+}
+
+	.hunter{
+		color: green;
+	font-size: 40px;
+	text-align: center;
+
+	}
+
+.hunter-two{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
+
+.hunter-three{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
+.hunter-four{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
+.hunter-five{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
+
+.hunter-six{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
+.hunter-seven{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
+.hunter-eight{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
